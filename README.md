@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFSWQXW80FAPw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733517871309?e=1738800000&v=beta&t=knqEJeE_W7vj9BuOMxCmAX7cD_wCXMBCdYzGPuc199I)
 
 <h1 align="center">Merhaba 👋, ben Ahmet Selim !</h1>
-<h3 align="center">İşini severek yapan bir web geliştiricisi :)</h3>
+<h3 align="center">İşini severek ve ciddiye alan yapan bir web geliştiricisiyim :)</h3>
 
 
 - 🔭 Şu anda [emlakuzmanim.net](https://www.emlakuzmanim.net) üzerinde çalışıyorum
